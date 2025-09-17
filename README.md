@@ -1,0 +1,1 @@
+# Bulk_Vegetable_Automatic_Recognition_and_Weighing_System_Based_on_MindSpore
