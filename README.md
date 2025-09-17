@@ -1,5 +1,18 @@
 # Bulk_Vegetable_Automatic_Recognition_and_Weighing_System_Based_on_MindSpore
-<<<<<<< HEAD
-=======
-Bulk Vegetable Automatic Recognition and Weighing System Based on MindSpore
->>>>>>> 591e5a33da615220b2b7d8aa0a718971b59f2cd8
+
+## 项目中文名称：基于Mindspore的超市散装蔬果智能识别及称重系统
+
+### 项目参与者
+
+项目负责人：孟金辉  
+项目成员：黄旨意 马志明 舒双涛 许文轩
+
+### 项目起止时间
+
+项目题目确认时间：2024.12  
+项目开题答辩时间：2025.3.25  
+项目中期答辩时间：2025.9.23
+
+## 特别鸣谢
+
+感谢杨秉宙学长的指导，更感谢迟宗正老师的教导与帮助，没有你们，我们的项目不会进展如此迅速且顺利，在开题阶段，迟宗正老师为我们提供了华为昇腾atlas 200i dk a2开发板以实现软硬件结合，同时提供了教室以供我们学习与讨论，在项目中期阶段，杨秉宙学长帮助我们解决了开发板的配网与硬件接口的调用，再次感谢你们的付出。
